@@ -1,10 +1,8 @@
 # FSK
 ## Aim
 To write a Python program for the modulation and demodulation of FSK.
-
 ## Tools required
 python IDE with Numpy and Scipy
-
 # Program
 ```
 import numpy as np
@@ -86,9 +84,7 @@ plt.show()
 ```
 # Output Waveform
 ![image](https://github.com/user-attachments/assets/bf2d974a-9196-490a-ace5-517b68ae2cee)
-
 # Hardware experiment output waveform.
 ![image](https://github.com/user-attachments/assets/36142619-9981-491f-8e7c-f11f17261a50)
-
 # Results
 Thus a Python program for the modulation and demodulation of FSK is successfully simulated and verified.
